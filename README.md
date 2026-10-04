@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/thumbnail.png" alt="SkillSpark" width="700">
+  <img src="thumbnail.png" alt="SkillSpark" width="700">
 </p>
 
 # 🔥 SkillSpark
@@ -18,11 +18,11 @@ Built for **Hackathon FIK FAIR 2026 – IGNITE**
 ## 📸 Screenshots
 | Skill Gap Analysis | 4-Week Roadmap |
 |---|---|
-| ![Gap](docs/screenshot-1.png) | ![Roadmap](docs/screenshot-2.png) |
+| ![Gap](screenshot-1.png) | ![Roadmap](screenshot-2.png) |
 
 | Peer Matching | User Flow |
 |---|---|
-| ![Peers](docs/screenshot-3.png) | ![Flow](docs/screenshot-4.png) |
+| ![Peers](screenshot-3.png) | ![Flow](screenshot-4.png) |
 
 ## 🎯 Problem
 Students don't know which skills they lack for their target career, learn without direction, and struggle to find teammates with complementary skills.
