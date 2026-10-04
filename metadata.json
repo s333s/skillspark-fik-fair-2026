@@ -1,0 +1,6 @@
+{
+  "name": "SkillSpark – Devpost & App Showcase (FIK FAIR 2026)",
+  "description": "AI-powered career gap analyzer, 4-week roadmap generator, and peer networking platform for Hackathon FIK FAIR 2026 IGNITE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
